@@ -1,0 +1,50 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+TestResults/
+MemoryCaptures/
+Recordings/
+UserSettings/
+
+# Unity and IDE generated files
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.vs/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local secrets and machine-specific settings
+.env
+.env.*
+*.secrets.json
+*.local.json
+*.pem
+*.p12
+*.key
+
+# Build and package output
+dist/
+artifacts/
+*.unitypackage
+*.dll
+*.exe
+*.bin
+*.so
+*.dylib

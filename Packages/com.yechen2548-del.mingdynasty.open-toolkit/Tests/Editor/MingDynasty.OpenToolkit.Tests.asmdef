@@ -1,0 +1,24 @@
+{
+  "name": "MingDynasty.OpenToolkit.Tests",
+  "rootNamespace": "MingDynasty.OpenToolkit.Tests",
+  "references": [
+    "MingDynasty.OpenToolkit.Core",
+    "MingDynasty.OpenToolkit.Simulation"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": true,
+  "precompiledReferences": [
+    "nunit.framework.dll"
+  ],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": true,
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}

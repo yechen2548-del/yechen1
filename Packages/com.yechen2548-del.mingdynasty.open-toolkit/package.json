@@ -1,0 +1,26 @@
+{
+  "name": "com.yechen2548-del.mingdynasty.open-toolkit",
+  "version": "0.1.0",
+  "displayName": "MingDynasty Open Toolkit",
+  "description": "Reusable, engine-light Unity tools and simulation components extracted and generalized from MingDynastyGame development.",
+  "unity": "2022.3",
+  "documentationUrl": "https://github.com/yechen2548-del/yechen1",
+  "author": {
+    "name": "yechen2548-del",
+    "url": "https://github.com/yechen2548-del"
+  },
+  "keywords": [
+    "simulation",
+    "lod",
+    "inventory",
+    "calendar",
+    "unity-tools"
+  ],
+  "samples": [
+    {
+      "displayName": "Basic Simulation",
+      "description": "A small MonoBehaviour showing time progression and event subscription.",
+      "path": "Samples~/BasicSimulation"
+    }
+  ]
+}

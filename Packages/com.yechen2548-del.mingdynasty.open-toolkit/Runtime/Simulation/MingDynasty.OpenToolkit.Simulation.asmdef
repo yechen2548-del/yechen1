@@ -1,0 +1,16 @@
+{
+  "name": "MingDynasty.OpenToolkit.Simulation",
+  "rootNamespace": "MingDynasty.OpenToolkit.Simulation",
+  "references": [
+    "MingDynasty.OpenToolkit.Core"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": true
+}
